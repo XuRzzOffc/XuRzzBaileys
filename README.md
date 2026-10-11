@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# @XuRzzOffc/XuRzzBails
+# @XuRzzOffc/XuRzzBaileys
 
 A WebSocket-based library for interacting with WhatsApp Web — a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys) with additional socket layers
